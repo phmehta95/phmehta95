@@ -1,0 +1,32 @@
+# Permalinks
+permalink:      /:year-:month-:day/:title
+
+# Setup
+title:          Pruthvi Mehta
+subtitle:       isn't that good at particle physics, but really likes it
+paginate:       10
+baseurl:        ""
+url:            "https://phmehta95.github.io"
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# About
+author:		Pruthvi Mehta
+name:         	Pruthvi Mehta
+url:		https://phmehta95.github.io
+email:		p_h_mehta@outlook.com
+
+# Custom vars
+version:        3.4.1
+github:
+  repo:         https://github.com/chesterhow/tale
+
+# Gems
+gems:
+  - jekyll-paginate
