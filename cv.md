@@ -2,7 +2,7 @@
 layout: post
 title: "CV"
 author: "Pruthvi"
-permalink: /cv/
+permalink: https://phmehta95.github.io/cv
 ---
 
 
